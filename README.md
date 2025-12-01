@@ -33,7 +33,7 @@ The agent is trained end-to-end on **MiniGrid**, demonstrating emergent causal u
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/YadunandanRaman/Action_Conditioned_JEPA.git](https://github.com/YadunandanRaman/Action_Conditioned_JEPA.gi)
+    git clone [https://github.com/YadunandanRaman/Action_Conditioned_JEPA.git](https://github.com/YadunandanRaman/Action_Conditioned_JEPA.git)
     cd Action-Conditioned-JEPA
     ```
 
