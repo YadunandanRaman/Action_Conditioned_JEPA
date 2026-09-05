@@ -1,7 +1,5 @@
 # Action-Conditioned JEPA: Emergence of World Models via Epistemic Curiosity
 
-**Author:** R Yadunandan  
-**Status:** Preprint / Research Implementation
 
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-ee4c2c.svg)](https://pytorch.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
@@ -9,8 +7,6 @@
 
 This repository contains the official PyTorch implementation of the paper **"Action-Conditioned JEPA: Emergence of World Models via Epistemic Curiosity"**.
 
-## 📖 Abstract
-Current AI systems largely rely on passive next-token prediction on static datasets. We argue that true understanding requires **agency**—the ability to act, predict consequences, and update beliefs based on prediction errors.
 
 This project implements a **Unified Agent Architecture** that integrates:
 1.  **Transformer World Model (JEPA):** Predicts latent state dynamics instead of pixels using Self-Attention and Rotary Embeddings (RoPE).
